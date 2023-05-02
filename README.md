@@ -19,7 +19,7 @@ You have been placed into their development team, whose current goal is to produ
 smart meters will interact with.
 
 Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with
-another ThoughtWorker to progress with the current user stories on the story wall. This is your chance to make an impact
+another Thoughtworker to progress with the current user stories on the story wall. This is your chance to make an impact
 on the business, improve the code base and deliver value.
 
 ## Story Wall
